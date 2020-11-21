@@ -4,7 +4,7 @@
 Aruino play Fuxoft tracks
 
 
-## the origiinal idea by https://github.com/admitrievsky/ay-3-8912-d4
+## the original idea by https://github.com/admitrievsky/ay-3-8912-d4
 
   Play Fuxoft Sound tracks on stand alone Arduino
   Need connect only some speaker or amplifier line in is better on D3 pin (via capacitor?)
