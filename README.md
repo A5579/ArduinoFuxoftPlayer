@@ -1,12 +1,12 @@
 # ArduinoFuxoftPlayer
 
 
-Aruino play Fuxoft tracks
+Aruino Nano play Fuxoft tracks
 
 
 ## the original idea by https://github.com/admitrievsky/ay-3-8912-d4
 
-  Play Fuxoft Sound tracks on stand alone Arduino
+  Play Fuxoft Sound tracks on stand alone Arduino Nano
   Need connect only some speaker or amplifier line in is better on D3 pin (via capacitor?)
   and you can hear...
  
